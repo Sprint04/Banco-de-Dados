@@ -129,9 +129,9 @@ create table permissao(
     );
     
 insert into permissao value
-	(null, 'Criar', 'Oque ela faz'),
-	(null, 'Inserir', 'Oque ela faz'),
-	(null, 'Deletar', 'Oque ela faz'),
+	(null, 'Acessar Histórico', 'Oque ela faz'),
+	(null, 'Adicionar Cargos e Funcionarios', 'Oque ela faz'),
+	(null, 'Editar Planos', 'Oque ela faz'),
 	(null, 'Visualizar', 'Oque ela faz');
     
 create table permissionamento(
